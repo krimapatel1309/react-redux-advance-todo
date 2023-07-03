@@ -1,8 +1,5 @@
 # Getting Started with Create React App
 
-## TODO app is live [CLICK HERE](https://jay-react-redux-todo-animated.netlify.app/) to test it.
-<hr>
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
